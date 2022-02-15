@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Transport Demand and Pricing Module
-type: OCWFile
 uid: b9e57716-c8c7-66dc-2ccc-0f76e2fefc1a
 ---
