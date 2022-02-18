@@ -39,9 +39,9 @@ Final
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit1_201jf08_midterm))
+({{< resource_link 75f5aad0-63e2-a28e-1188-04b9aee48034 "PDF" >}})
 
-([PDF]({{< baseurl >}}/resources/mit1_201jf08_final))
+({{< resource_link 08be108a-6f03-62fa-3ef5-409203c1956f "PDF" >}})
 
 
 {{< tdclose >}}
@@ -66,9 +66,9 @@ Sample pricing problems
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit1_201jf08_pricing_prob))
+({{< resource_link b9e57716-c8c7-66dc-2ccc-0f76e2fefc1a "PDF" >}})
 
-([PDF]({{< baseurl >}}/resources/mit1_201jf08_final07))
+({{< resource_link b234e9a9-f28f-9f11-4e4a-2df9ccf04722 "PDF" >}})
 
 
 {{< tdclose >}}
