@@ -39,7 +39,7 @@ FILES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 12e51b7c-a0fb-1889-1c74-d21d5f7b475f "PDF" >}})
+({{% resource_link 12e51b7c-a0fb-1889-1c74-d21d5f7b475f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +57,7 @@ Introduction
 Overview of consumer theory
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 0da5d808-92d0-497c-1510-7f296bfa3a75 "PDF" >}})
+({{% resource_link 0da5d808-92d0-497c-1510-7f296bfa3a75 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +69,7 @@ Overview of consumer theory
 Discrete choice analysis I
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 9eadd4cc-cfa4-9168-0a5c-5bb4233f78ab "PDF" >}})
+({{% resource_link 9eadd4cc-cfa4-9168-0a5c-5bb4233f78ab "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +81,7 @@ Discrete choice analysis I
 Discrete choice analysis II
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 1fe5a653-1216-e44d-be94-543535a1ddd3 "PDF" >}})
+({{% resource_link 1fe5a653-1216-e44d-be94-543535a1ddd3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +93,7 @@ Discrete choice analysis II
 Travel demand modeling
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link a73e9a7c-b5ed-bbd0-d0b9-55ca172c0856 "PDF" >}})
+({{% resource_link a73e9a7c-b5ed-bbd0-d0b9-55ca172c0856 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +105,7 @@ Travel demand modeling
 Freight demand
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 7c29839f-9025-50fa-6800-c37f31943bec "PDF" >}})
+({{% resource_link 7c29839f-9025-50fa-6800-c37f31943bec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +129,7 @@ Organizational models
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link c5ad55d9-fbba-c5fe-fca9-cf035d9a47a2 "PDF" >}})
+({{% resource_link c5ad55d9-fbba-c5fe-fca9-cf035d9a47a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +147,7 @@ Path choice models
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 5cb4b68b-a286-2c05-be08-8455242112f4 "PDF" >}})
+({{% resource_link 5cb4b68b-a286-2c05-be08-8455242112f4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +165,7 @@ Path choice models
 Theory of the firm
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link f85bad82-1869-fc92-7af7-c2c078f78c01 "PDF" >}})
+({{% resource_link f85bad82-1869-fc92-7af7-c2c078f78c01 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +177,7 @@ Theory of the firm
 Transportation costs
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 811d2e2f-5bb7-24df-2e3e-46ff0c2da6b8 "PDF" >}})
+({{% resource_link 811d2e2f-5bb7-24df-2e3e-46ff0c2da6b8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +207,7 @@ Midterm exam
 Pricing of transportation services: theory and practice I
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link e7bd11d7-1c99-7467-d994-e11e0e7081a6 "PDF" >}})
+({{% resource_link e7bd11d7-1c99-7467-d994-e11e0e7081a6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,7 +219,7 @@ Pricing of transportation services: theory and practice I
 Pricing of transportation services: theory and practice II
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 1f95d3f5-478d-b837-5191-1b5617967db4 "PDF" >}})
+({{% resource_link 1f95d3f5-478d-b837-5191-1b5617967db4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +261,7 @@ Guest lectures: Hilde Meersman and Eddy Van de Voorde, Department of Transport a
 Transportation revenue forecasting: theory and models
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link f4fa5794-7388-19bd-bc0a-e42508120f21 "PDF" >}})
+({{% resource_link f4fa5794-7388-19bd-bc0a-e42508120f21 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -279,7 +279,7 @@ Guest lecture: Peter Belobaba, MIT International Center for Air Transportation (
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 0fc64f08-e834-3d2c-4b0f-2c27bc13690d "PDF" >}})
+({{% resource_link 0fc64f08-e834-3d2c-4b0f-2c27bc13690d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -297,7 +297,7 @@ Guest lecture: Peter Belobaba, MIT ICAT
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 973ee77c-d644-ca76-8564-7313cf892e2d "PDF" >}})
+({{% resource_link 973ee77c-d644-ca76-8564-7313cf892e2d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -321,7 +321,7 @@ Guest lecture: Jon Bottom, CRA International
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link cde9ee13-7634-69fd-ce84-edc34d217868 "PDF" >}})
+({{% resource_link cde9ee13-7634-69fd-ce84-edc34d217868 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -339,7 +339,7 @@ Guest lecture: Jon Bottom, CRA International
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link a23d95b1-e9f7-973f-03fe-6da9f7493fe5 "PDF" >}})
+({{% resource_link a23d95b1-e9f7-973f-03fe-6da9f7493fe5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -359,7 +359,7 @@ Guest lectures: Jon Bottom, CRA International
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link afc26475-c9b2-e882-dd28-af69353a22b0 "PDF" >}})
+({{% resource_link afc26475-c9b2-e882-dd28-af69353a22b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -383,7 +383,7 @@ Guest lecture: Lance Neumann, Cambridge Systematics, Inc.
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 6062840f-e018-98c5-5f7a-e9ffc7759aa1 "PDF" >}})
+({{% resource_link 6062840f-e018-98c5-5f7a-e9ffc7759aa1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -401,7 +401,7 @@ Guest lecture: Lance Neumann, Cambridge Systematics, Inc.
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 04a48a5b-9358-e442-9602-c65b26b60a0d "PDF" >}})
+({{% resource_link 04a48a5b-9358-e442-9602-c65b26b60a0d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -425,7 +425,7 @@ Guest lecture: Chris Zegras, MIT Department of Urban Studies and Planning
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 53ff1622-c95c-b74b-9a89-65aae40c1fd5 "PDF" >}})
+({{% resource_link 53ff1622-c95c-b74b-9a89-65aae40c1fd5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -455,7 +455,7 @@ Mobility demand in developing countries: some examples
 Intelligent transportation systems and the impact of traveler information; emerging themes in transportation economics and policy
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 246ff23f-8bd1-5775-9243-b3fc55c631f0 "PDF" >}})
+({{% resource_link 246ff23f-8bd1-5775-9243-b3fc55c631f0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
