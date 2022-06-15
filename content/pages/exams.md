@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the midterm and final exams for the course along
+  with exam study materials.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
