@@ -5,6 +5,7 @@ file: /courses/1-201j-transportation-systems-analysis-demand-and-economics-fall-
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
